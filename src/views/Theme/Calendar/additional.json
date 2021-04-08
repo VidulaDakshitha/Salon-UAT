@@ -1,0 +1,9 @@
+[{ "value":"0","name":"0 min"},
+{ "value":"15","name":"15 min"},
+{ "value":"30","name":"30 min"},
+{ "value":"45","name":"45 min"},
+{ "value":"60","name":"1 hr"},
+{ "value":"75","name":"1 hr 15 min"},
+{ "value":"90","name":"1 hr 30 min"},
+{ "value":"105","name":"1 hr 45 min"},
+{ "value":"120","name":"2 hr"}]
